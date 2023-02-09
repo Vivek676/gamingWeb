@@ -1,0 +1,54 @@
+#nav{
+	background:black;
+	color:#fff;
+}
+
+#con{
+	background:black;
+}
+#c1a{
+	width:445px;
+	height:474px;
+	
+}
+#img1{
+	width: 649px;
+    margin-top: 37px;
+}
+#contact{
+	font-size:19px;
+	font-weight:lighter;
+}
+#number p{
+	font-family: 'Monoton', cursive;
+	font-size:70px;
+}
+
+#crouselSlide{
+	width:40px;
+	height:40px;
+	margin-top:60px;
+	background:red;
+}
+#viewMore{
+	height:250px;
+	padding-top: 100px;
+    padding-left: 116px;
+	border:1px solid gray;
+}
+#box1{
+	width:100%;
+}
+#box{
+	background:black;
+}
+#logo{
+	width:100px;
+}
+#footer{
+	background:black;
+}
+#icon a{
+	font-size:30px;
+	color:gray;
+}
